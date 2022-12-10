@@ -1,0 +1,8 @@
+.mainFormColWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.mainText {
+    font-size: 38px;
+}
